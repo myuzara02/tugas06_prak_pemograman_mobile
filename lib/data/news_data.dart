@@ -3,23 +3,23 @@ import '../models/news.dart';
 List<News> newsList = [
   News(
     id: 1,
-    title: "Waspada, Kasus Covid di Singapura 'Meledak' Lagi!",
+    title: "Kiamat Driver Sebentar Lagi di China, Taksi Online Pakai Ini!",
     image:
-        "https://akcdn.detik.net.id/visual/2021/09/30/infografis-fakta-fakta-covid-19-singapura-meledak-terus-melebihi-riaristya-rahadian_169.png?w=715&q=90",
+        "https://akcdn.detik.net.id/visual/2023/04/14/didi-neuron-sumber-cnbc-internasional_169.webp?w=715&q=900",
     content: '''
-Singapura berada di tengah gelombang Covid-19 selama sebulan terakhir ini, dengan infeksi harian melonjak dari sekitar 1.400 sebulan yang lalu menjadi sekitar 4.000 kasus per hari pada minggu lalu..
+Raksasa teknologi China, Didi Global, segera punya armada taksi robot. Ini jadi langkah terbaru negara tersebut yang terus mendukung pengembangan mobil tanpa pengemudi.
+Taksi Didi tanpa pengemudi itu direncanakan mengaspal sebagai layanan ride hailing pada 2025 mendatang, dikutip dari CNBC Internasional, Jumat (14/4/2023).
 
-Sekitar 30% adalah kasus reinfeksi, lebih tinggi dari proporsi 20% hingga 25% selama gelombang sebelumnya, kata Menteri Kesehatan Ong Ye Kung pada Jumat (14/04/2023), dilansir dari Channel News Asia.
+Unit otomasi milik perusahaan juga memamerkan konsep robotaksi tersebut. Dinamakan Didi Neuron, taksi juga termasuk lengang robot di bagian belakang bertugas untuk mengambil barang bawaan atau membangunkan penumpang jika tertidur.
 
-Meski jumlah pasien Covid-19 yang dirawat di rumah sakit telah meningkat, dari 80 orang per hari pada bulan lalu menjadi 220 orang per hari saat ini, namun Menkes Ong mengatakan ini masih "jauh di bawah" angka selama puncak pandemi dan jauh lebih rendah daripada jumlah pasien yang dirawat di rumah sakit untuk non -infeksi Covid.
+Tak cuma itu, Didi juga masih punya ambisi untuk mengembangkan robotaksinya. Perusahaan mengumumkan tengah bekerja sama dengan pembuat mobil energi baru dan pabrikan mobil listrik.
 
-Kurang dari 10 pasien Covid-19 telah berada di unit perawatan intensif pada satu waktu selama sebulan terakhir, tambahnya.
+Raksasa teknologi China, Didi Global, segera punya armada taksi robot. Ini jadi langkah terbaru negara tersebut yang terus mendukung pengembangan mobil tanpa pengemudi.
+Taksi Didi tanpa pengemudi itu direncanakan mengaspal sebagai layanan ride hailing pada 2025 mendatang, dikutip dari CNBC Internasional, Jumat (14/4/2023).
 
-"Apa yang terjadi adalah demonstrasi yang jelas tentang seberapa jauh kita telah berhasil menangani Covid-19," kata Ong, seperti dikutip dari Channel News Asia, Jumat (14/04/2023).
+Unit otomasi milik perusahaan juga memamerkan konsep robotaksi tersebut. Dinamakan Didi Neuron, taksi juga termasuk lengang robot di bagian belakang bertugas untuk mengambil barang bawaan atau membangunkan penumpang jika tertidur.
 
-"Bahkan selama gelombang infeksi Covid-19 seperti sekarang, kami terus menjalani hidup secara normal, kami tidak disibukkan dengan angka infeksi ... Seperti inilah seharusnya endemisitas," lanjutnya.
-
-Menkes Ong juga menanggapi komentar dari beberapa orang yang mengaitkan peningkatan infeksi Covid-19 Singapura dengan para pelancong.
+Tak cuma itu, Didi juga masih punya ambisi untuk mengembangkan robotaksinya. Perusahaan mengumumkan tengah bekerja sama dengan pembuat mobil energi baru dan pabrikan mobil listrik.
         ''',
   ),
   News(
@@ -241,23 +241,23 @@ Saat terjadi perang dingin dengan Uni Soviet, Presiden AS Jimmy Carter dalam pid
   ),
   News(
     id: 1,
-    title: "Waspada, Kasus Covid di Singapura 'Meledak' Lagi!",
+    title: "Kiamat Driver Sebentar Lagi di China, Taksi Online Pakai Ini!",
     image:
-        "https://akcdn.detik.net.id/visual/2021/09/30/infografis-fakta-fakta-covid-19-singapura-meledak-terus-melebihi-riaristya-rahadian_169.png?w=715&q=90",
+        "https://akcdn.detik.net.id/visual/2023/04/14/didi-neuron-sumber-cnbc-internasional_169.webp?w=715&q=900",
     content: '''
-Singapura berada di tengah gelombang Covid-19 selama sebulan terakhir ini, dengan infeksi harian melonjak dari sekitar 1.400 sebulan yang lalu menjadi sekitar 4.000 kasus per hari pada minggu lalu..
+Raksasa teknologi China, Didi Global, segera punya armada taksi robot. Ini jadi langkah terbaru negara tersebut yang terus mendukung pengembangan mobil tanpa pengemudi.
+Taksi Didi tanpa pengemudi itu direncanakan mengaspal sebagai layanan ride hailing pada 2025 mendatang, dikutip dari CNBC Internasional, Jumat (14/4/2023).
 
-Sekitar 30% adalah kasus reinfeksi, lebih tinggi dari proporsi 20% hingga 25% selama gelombang sebelumnya, kata Menteri Kesehatan Ong Ye Kung pada Jumat (14/04/2023), dilansir dari Channel News Asia.
+Unit otomasi milik perusahaan juga memamerkan konsep robotaksi tersebut. Dinamakan Didi Neuron, taksi juga termasuk lengang robot di bagian belakang bertugas untuk mengambil barang bawaan atau membangunkan penumpang jika tertidur.
 
-Meski jumlah pasien Covid-19 yang dirawat di rumah sakit telah meningkat, dari 80 orang per hari pada bulan lalu menjadi 220 orang per hari saat ini, namun Menkes Ong mengatakan ini masih "jauh di bawah" angka selama puncak pandemi dan jauh lebih rendah daripada jumlah pasien yang dirawat di rumah sakit untuk non -infeksi Covid.
+Tak cuma itu, Didi juga masih punya ambisi untuk mengembangkan robotaksinya. Perusahaan mengumumkan tengah bekerja sama dengan pembuat mobil energi baru dan pabrikan mobil listrik.
 
-Kurang dari 10 pasien Covid-19 telah berada di unit perawatan intensif pada satu waktu selama sebulan terakhir, tambahnya.
+Raksasa teknologi China, Didi Global, segera punya armada taksi robot. Ini jadi langkah terbaru negara tersebut yang terus mendukung pengembangan mobil tanpa pengemudi.
+Taksi Didi tanpa pengemudi itu direncanakan mengaspal sebagai layanan ride hailing pada 2025 mendatang, dikutip dari CNBC Internasional, Jumat (14/4/2023).
 
-"Apa yang terjadi adalah demonstrasi yang jelas tentang seberapa jauh kita telah berhasil menangani Covid-19," kata Ong, seperti dikutip dari Channel News Asia, Jumat (14/04/2023).
+Unit otomasi milik perusahaan juga memamerkan konsep robotaksi tersebut. Dinamakan Didi Neuron, taksi juga termasuk lengang robot di bagian belakang bertugas untuk mengambil barang bawaan atau membangunkan penumpang jika tertidur.
 
-"Bahkan selama gelombang infeksi Covid-19 seperti sekarang, kami terus menjalani hidup secara normal, kami tidak disibukkan dengan angka infeksi ... Seperti inilah seharusnya endemisitas," lanjutnya.
-
-Menkes Ong juga menanggapi komentar dari beberapa orang yang mengaitkan peningkatan infeksi Covid-19 Singapura dengan para pelancong.
+Tak cuma itu, Didi juga masih punya ambisi untuk mengembangkan robotaksinya. Perusahaan mengumumkan tengah bekerja sama dengan pembuat mobil energi baru dan pabrikan mobil listrik.
         ''',
   ),
 ];
