@@ -24,23 +24,30 @@ Menkes Ong juga menanggapi komentar dari beberapa orang yang mengaitkan peningka
   ),
   News(
     id: 2,
-    title: "Ditolak NASA, Lulusan SMA Ini Buat Perusahaan Roket Sendir",
+    title: "Teks Tersembunyi Ditemukan di Alkitab Kuno dari Vatikan",
     image:
-        "https://akcdn.detik.net.id/visual/2023/04/14/peter-back-ceo-rocket-lab-sumber-cnbc-internasional_169.webp?w=715&q=90",
+        "https://akcdn.detik.net.id/visual/2023/04/14/teks-tersembunyi-disinari-cahaya-uv-sumber-ifl-science_169.png?w=715&q=90",
     content: '''
-Rancangan roketnya ditolak NASA tak membuat Peter Beck putus asa. Pria asal Selandia Baru itu malah berencana membuat startup pembuat roket sendiri.
+Ahli abad pertengahan Grigory Kessel menemukan teks tersembunyi dalam alkitab. Dia menemukannya di dalam terjemahan Injil Matius yang naskahnya sudah berusia 1.750 tahun.
+Kessel menemukannya dengan fotografi ultraviolet pada manuskrip di Perpustakaan Vatikan. Penemuan tersebut bagian dari proyek Sinai Palimsests, dikutip dari IFL Science, Jumat (14/4/2023).
 
-Perjalanannya dimulai saat 2006 melakukan 'ziarah roket'. Membawa rancangan sepeda roket bertenaga uap yang menempuh jarak hampir 90 meter per jam, dia berharap bisa diperkerjakan oleh NASA atau Boeing.
+Para peneliti yang mengerjakan proyek tersebut melakukan pemulihan teks yang dihapus dan ditulis ulang. Ini dilakukan sekitar abad ke-4 hingga ke-12 setelah masehi.
 
-Namun keinginannya itu tak jadi kenyataan. Saat dalam perjalanan kembali ke Selandia Baru, dia merencanakan startup buatannya, dengan desain logo di atas serbet.
+Saat itu, lazim untuk mencuci dan mengikis teks di dalam papirus untuk digunakan kembali. Hal ini dilakukan karena pada waktu itu media tulis masih sangat langka dan mahal.
 
-"Mengingat waktu itu, saya sadar bahwa peluang itu terbuka lebar jika kita mau meraihnya," kata Beck, dikutip dari CNBC Internasional, Jumat (14/4/2023).
+Namun akhirnya teks-teks yang terhapus dan tersembunyi bisa dipulihkan. Yakni dengan menyinari teks menggunakan fluoresensi atau panjang gelombang cahaya berbeda.
 
-"Anda harus mengeksekusinya dengan sempurna," ungkapnya.
+Para peneliti sejauh ini berhasil menguraikan 74 manuskrip dengan metode ini. Namun, temuan terbaru sangat spesial karena mencakup terjemahan dari manuskrip yang seratus tahun lebih tua dari terjemahan tertua dalam bahasa Yunani, termasuk Codex Sinaiticus.
 
-Saat ditanya soal kesulitan yang didapatkan, Beck merujuk pada pendanaan. Di awal pendirian, dia mencoba mengumpulkan dana US 5 juta di Silicon Valley.
+"Dalam tradisi Kekristenan Syria ada sejumlah terjemahan Perjanjian Lama dan Baru," ungkap Kessel dalam keterangannya.
 
-Namun sulitnya adalah saat itu tidak ada dukungan untuk peluncuran roket. Mengingat startup dengan model bisnis yang sama baru SpaceX, milik miliarder dan pengusaha Elon Musk.
+Dia menjelaskan baru ada dua manuskrip yang berhasil dipecahkan terjemahannya. "Sampai baru-baru ini, hanya dua manuskrip yang diketahui berisi terjemahan Injil, berbahasa Syria Kuno," kata Kessel.
+
+Manuskrip yang menjadi objek penelitian pertama kali ditulis pada abad ke-3 kemudian disalin pada abad ke-6. IFL Science menyatakan bahwa detail dari teks tersembunyi dalam yang ditemukan belum dipublikasikan. 
+
+Namun, peneliti mengungkap bahwa teks tersembunyi tersebut lebih detail dari terjemahan berbahasa Yunani dari Injil Matius bab ke-12.
+
+Pada akhir baris pertama terjemahan berbahasa Yunani, tertulis "mulai memetik ujung tanaman gandum dan memakannya.". Pada terjemahan Syiria kuno yang ditemukan oleh Kessel, akhir baris yang sama tertulis "mulai memetik ujung tanaman gandum, menggosokannya di tangan mereka, dan memakannya."
 
 ''',
   ),
