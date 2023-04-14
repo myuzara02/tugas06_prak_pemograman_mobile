@@ -1,5 +1,10 @@
 # Tugas 7
 
+# Anggota Kelompok 7 Kelas B:
+1. Miftah Yuzar A
+2. Taufik Rahman
+3. Rival Riyanto
+4. Sofyan Tizani
 
 ## Getting Started
 
