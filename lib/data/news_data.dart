@@ -103,39 +103,26 @@ Adapun dari target sasaran vaksinasi Covid-19 di Indonesia 234.666.020 dosis, re
   ),
   News(
       id: 5,
-      title: "Bukti Baru AS Mulai 'Dijauh' Dunia: Jerman",
+      title: "Heboh di Amerika, ChatGPT Sepi Pengguna di Indonesia",
       image:
-          "https://akcdn.detik.net.id/visual/2022/12/29/ilustrasi-bendera-jerman-dpapicture-alliance-via-getty-images_169.jpeg?w=715&q=90",
+          "https://akcdn.detik.net.id/visual/2023/02/02/1246657758_169.jpeg?w=715&q=90",
       content: '''
-Jerman menjadi "bukti baru" perlahan negara-negara menjauhi Amerika Serikat dan mendekati China. Laporan The New York Times dikutip Jumat (14/4/2023) saat AS berusaha untuk membatasi hubungan ekonomi dengan China, dua perusahaan besar asal Jerman, Volkswagen (VW) dan BASF, malah memperluas investasi besar mereka di Negeri Tirai Bambu. 
+ChatGPT belum kelihatan mendaftar sebagai penyelenggara sistem elektronik (PSE). Kementerian Kominfo juga belum menentukan apakah platform chatbot asal OpenAI wajib lapor ke pihaknya.
+Dirjen Aptika Kementerian Kominfo, Semuel Abrijani Pangerapan menjelaskan platform wajib daftar jika memiliki layanan berbayar. Pihaknya juga terus terus melakukan analisis, termasuk terkait trafik penggunaan di tanah air.
 
-"Tanpa bisnis di China, restrukturisasi yang diperlukan di sini tidak akan mungkin terjadi," kata Chief Executive BASF, Martin Brudermüller, kepada wartawan di konferensi pendapatan tahunan perusahaannya pada Februari.
+"Kalau dia berbayar wajib. Kemarin sih kita sudah kirim-kirim surat. Kemaren masih kita analisa, trafiknya berapa sih, biayanya. Kan ada enam kategori soal PSE. Kalau dia masuk, berarti harus daftar," jelas Semuel ditemui di kantor Kementerian Kominfo, Jakarta, Kamis (13/4/2023).
 
-"Sebutkan saya hanya satu investasi di Eropa tempat kami dapat menghasilkan uang," katanya lagi.
+ntinya adalah Kominfo ingin memahami dulu soal ChatGPT. Termasuk terkait apa chatbot yang mendadak terkenal akhir tahun lalu.
 
-Ia juga mengatakan pendapatan dari China memungkinkan perusahaan untuk secara efektif mengimbangi kerugian dari biaya energi yang tinggi di Eropa. Termasuk peraturan lingkungan yang ketat.
+Pihak OpenAI, dia menyebutkan akan melakukan kunjungan ke beberapa negara mungkin juga termasuk Indonesia. Apabila benar ke tanah air, Semuel mengatakan bisa memanggil perusahaan untuk membicarakan soal ChatGPT.
 
-Hal yang sama juga disampaikan eksekutif di Volkswagen, yang secara pribadi mengakui produsen mobil itu berada dalam kesulitan yang sama. Biaya energi dan tenaga kerja yang tinggi membuat perusahaan sangat bergantung pada penjualan dari China untuk membantu menanggung operasi di Eropa.
+"By the way dia katanya mau ke Indonesia. Dia mau keliling dunia. Nah mungkin saya juga bisa panggil, bisa ngobrol. Jadi kita harus memahami dulu. Itu sih pertama yang ingin kita lakukan. Kita ingin memahami dulu apa itu," kata Semuel.
 
-Di seluruh Jerman, para eksekutif menyadari bahwa investasi semacam itu bertentangan dengan upaya AS untuk mengisolasi China secara ekonomi. Tapi, perusahaan membantah, pendapatan dari China 'sangat penting' bagi bisnis mereka untuk berkembang dan tumbuh di Eropa.
+Penggunaan ChatGPT di Indonesia juga masih kecil. Jadi menurutnya, platform belum jadi prioritas pihak kementerian.
 
-Volkswagen sendiri- yang memiliki lebih dari 40 pabrik di China- mengumumkan akan menyesuaikan model dengan keinginan pelanggan China, seperti fitur mesin karaoke in-dash. Produsen mobil ini juga akan menginvestasikan miliaran dalam kemitraan lokal dan lokasi produksi.
+"Masih kecil sekali. Bahkan ada baselinenya. Makanya kemarin trafiknya kecil sekali di sininya [di Indonesia]. Jadi belum masuk prioritas kami," ungkapnya.
 
-Ini adalah bagian dari rencana yang diresmikan VW tahun lalu. Awalnya mereka mengusung tema "Di China untuk China".
-
-Sementara perusahaan kimia BASF, dengan 30 fasilitas produksi di China, berencana membelanjakan 10 miliar euro atau sekitar Rp162 triliun untuk kompleks produksi kimia baru di China. Ukurannya akan menyaingi kompleks kantor pusat besarnya di Ludwigshafen, yang memiliki luas sekitar empat mil persegi.
-
-Jerman dilaporkan bergantung pada China untuk menyediakan produk teknologi penting, termasuk ponsel dan LED, serta bahan mentah, termasuk litium dan elemen tanah jarang. Ini sangat penting bagi rencana Jerman untuk melakukan transisi ke energi dan transportasi yang lebih bersih.
-
-Dengan penjualan perdagangan luar negeri sebesar 297,9 miliar euro tahun lalu, China telah menjadi mitra dagang terbesar Jerman selama tujuh tahun berturut-turut. Tetapi defisit perdagangan Jerman dengan China semakin miring, sebuah tren yang memburuk selama gangguan rantai pasokan yang disebabkan oleh pandemi virus corona.
-
-Tahun lalu, impor dari China meningkat sepertiga, menjadi 191 miliar euro. Sedangkan ekspor hanya tumbuh 3%, menjadi 107 miliar euro.
-
-Satu bidang di mana Jerman telah lama mendominasi hubungan dengan China adalah industri otomotif. Pembuat mobil Jerman, termasuk BMW dan Mercedes-Benz, menjual sekitar sepertiga dari semua kendaraan yang mereka produksi di China, melebihi penjualan di seluruh Eropa Barat.
-
-Tetapi data terbaru menunjukkan bahwa Jerman tampaknya kehilangan cengkeramannya di pasar China. Terutama karena popularitas kendaraan listrik yang diproduksi di dalam negeri melonjak.
-
-"Kami ingin memiliki pendekatan positif ke China. Bukan pendekatan anti-China," kata penasihat ekonomi Kanselir Jerman Olaf Scholz, Jörg Kukies, mengatakan pada pertemuan para pemimpin perdagangan Jerman dan Amerika.
+Platform yang beroperasi di Indonesia wajib mendaftar, sesuai dengan aturan Permen Kominfo No.5 Tahun 2020 dan perubahannya melalui Permen Kominfo No. 10 Tahun 2021
 '''),
   News(
     id: 6,
