@@ -56,7 +56,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                   child: Container(
                     padding: const EdgeInsets.all(8),
                     decoration: BoxDecoration(
-                        color: Colors.red.withAlpha(200),
+                        color: Colors.green.withAlpha(200),
                         borderRadius: BorderRadius.circular(8)),
                     child: const Icon(Icons.chevron_left_rounded),
                   ),
@@ -97,7 +97,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                       label: const Text("Nama"),
                       isDense: true,
                       hintText: "Nama Anda",
-                      fillColor: Colors.red[100],
+                      fillColor: Colors.green[100],
                       filled: true,
                       border: OutlineInputBorder(
                           borderSide: BorderSide.none,
@@ -138,7 +138,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                       ),
                       label: const Text("Password"),
                       isDense: true,
-                      fillColor: Colors.red[100],
+                      fillColor: Colors.green[100],
                       filled: true,
                       border: OutlineInputBorder(
                           borderSide: BorderSide.none,
@@ -168,7 +168,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
               padding: const EdgeInsets.all(16),
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(16),
-                color: Colors.red,
+                color: Colors.green,
               ),
               child: const Center(
                 child: Text(
