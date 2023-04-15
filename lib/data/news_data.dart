@@ -126,59 +126,15 @@ Platform yang beroperasi di Indonesia wajib mendaftar, sesuai dengan aturan Perm
 '''),
   News(
     id: 6,
-    title: "Ini Alasan Amerika 'Sungkem' ke Israel, Ada Motif Agama?",
+    title: "Sst..Sri Mulyani Bertemu Bos Bank Sentral China, Bahas Apa?",
     image:
-        "https://akcdn.detik.net.id/visual/2023/03/31/ilustrasi-bendera-israel-afp-via-getty-imagesahmad-gharabli-1_169.jpeg?w=715&q=90",
+        "https://awsimages.detik.net.id/visual/2023/04/15/enteri-keuangan-sri-mulyani-dan-gubernur-dari-the-peoples-bank-of-china-yi-gang-bertemu-secara-bilateral-saat-menghadiri-imf-w-1_169.jpeg?w=715&q=90",
     content: '''
-Menjelang pergantian abad ke-19, kebanyakan orang Yahudi yang selama ini teraniaya ingin hidup tenang. Mereka ingin beraktivitas seperti sedia kala dan tidak ingin diganggu. 
+Menteri Keuangan Sri Mulyani dan Gubernur dari The People's Bank of China, Yi Gang, bertemu secara bilateral saat menghadiri IMF-World Bank Spring Meeting 2023 di Washington DC, AS.
 
-Alhasil, muncul gerakan religius di antara mereka bernama Zionisme yang dibuat oleh Theodor Herzl pada 1897. Gerakan ini berawal di Rusia dan bertujuan untuk mencari suatu wilayah yang bisa dihuni secara tetap yang nanti bisa didirikan negara supaya terhindari dari anti-semit.
+Menkeu membagikan fotonya bersama Yi Gang dalam akun pribadi Instagramnya. Dalam keterangan foto tersebut ia menuliskan, kondisi perekonomian global menjadi topik pertama yang mereka diskusikan.
 
-Supaya tujuan itu terwujud, Herzl mengadakan kongres di Wina. Hasilnya memutuskan menjadikan wilayah di tepi Laut Mediterania sebagai tempat tinggal bangsa Yahudi.
-
-Namun, keputusan ini adalah opsi terakhir. Sebagaimana dipaparkan sejarawan Walter Russell Mead kepada The Atlantic, mereka tetap ingin tinggal di negara favorit, seperti Amerika Serikat (AS), Inggris, Brazil, dan negara Eropa lain.
-
-Sayang, seluruh negara itu menutup masuk pintu imigrasi, termasuk bangsa Yahudi. Alhasil, keputusan untuk tinggal di tepi Laut Mediterania, kini wilayah Palestina, jadi pilihan terbaik. 
-
-Tercatat, sejak tahun 1905 sudah ada 35.000 orang yang bermigrasi. Angka ini makin bertingkat usai Revolusi Rusia 1905 dan khususnya Perang Dunia II, yang ditandai oleh kebangkitan NAZI Jerman. 
-
-Sebagai "tamu" yang baru datang di wilayah orang, jelas warga lokal, bangsa Palestina, sedikit marah. Apalagi, Inggris secara resmi telah memberikan dukungannya lewat Deklarasi Balfour 1917 dan membuat posisi bangsa Palestina jelas terancam. 
-
-Singkat cerita, perselisihan pun dimulai. Setelah 1945, PBB memberikan solusi pendirian dua negara, negara Arab dan negara Yahudi.
-
-Namun, solusi ini ditolak kedua pihak. Puncaknya, tanpa persetujuan apapun, sang tamu tersebut malah mendirikan negara bernama Israel pada 14 Mei 1948.
-
-Sialnya bagi tuan rumah, mereka tak dapat simpati dan malah terusir dari rumahnya. Kondisi kian runyam ketika AS sebagai negara adidaya mendukung penuh keberadaan Israel. 
-
-Dukungan AS memang sangat terkait dengan kondisi dunia saat Perang Dingin (1947-1991). Bagi AS, Timur Tengah adalah wilayah potensial sebab kaya minyak bumi.
-
-Awalnya, Paman Sam mengamankan kekuatan politiknya di Arab Saudi lewat hadirnya perusahaan SOCAL, cikal bakal raksasa minyak ARAMCO. Namun, agar lebih kuat mencengkram Timur Tengah dibutuhkanlah suatu negara yang sejalan dengan mereka.
-
-Lalu Israel kemudian dipilih sebagai anak kesayangan AS di tengah lautan negara-negara Islam. Merujuk paparan Zack Beauchamp di Vox, Washington melihat Israel sebagai alat yang berguna untuk membendung pengaruh Soviet di Timur Tengah yang sangat mesra dengan negara Arab.
-
-"Lewat Israel, AS berupaya menjadikan ujung tombak melawan komunis," tulisnya.
-
-Salah satu peristiwa yang membuat urgensi Israel penting bagi AS adalah saat perang Arab-Israel 1967. Merujuk riset Yaacov Bar-Siman-Tov dalam "The United States and Israel Since 1948" (1998), AS mulai memandang bahwa tidak selamanya dekat dengan negara Arab itu baik.
-
-Hubungan dengan Arab Saudi, misalnya, terancam runyam karena sentimen agama. Ya, Arab Saudi jelas mendukung Palestina sebagai negara. 
-
-Atas dasar inilah upaya mempertahankan relasi dengan Israel tetap jalan terbaik. Upaya ini kemudian terus bertahan hingga kini.
-
-Namun jika faktor ideologi akibat Perang Dingin jadi upaya merekatkan AS-Israel, mengapa setelah perang dingin keduanya tetap erat? Jawabannya, kata Zack Beauchamp, adalah adanya rasa nilai-nilai bersama.
-
-Hubungan kedua negara bukan lagi kalkulasi strategis kebijakan luar negeri. Tetapi juga ajang popularitas politik dalam negeri. 
-
-Pada 2020 lalu Pew Research Center mempublikasikan riset "U.S. Jews' connections with and attitudes toward Israel". Dalam riset yang memaparkan koneksi emosional antara kedua negara diketahui kalau enam dari 10 orang Yahudi AS menyebut mereka sangat terikat secara emosional. 
-
-Selain itu dipaparkan juga kalau 54% orang Yahudi-Amerika menganggap dukungan kepada Israel adalah langkah yang tepat. Besarnya dukungan ini dibarengi juga oleh fakta bahwa mereka adakah konstituen utama dalam kancah politik AS, baik di Partai Republik dan Partai Demokrat.
-
-Jadi, dengan mendukung Israel, sebetulnya para pejabat Washington juga mengamankan posisi politik mereka di dalam negeri. Suara kaum Yahudi adalah ceruk potensial yang bisa menjadi mesin pendulang suara saat pemilu.
-
-Salah satu "mesin" politik bangsa Yahudi adalah American Israel Public Affaris Commiter (AIPAC), organisasi kelompok lobi yang mengadvokasi kebijakan pro-Israel ke legislatif dan eksekutif Paman Sam. The New Yorker bahkan menyebut organisasi ini sebagai kelompok lobi terkuat di AS.
-
-Dalam laporan The Guardian, singkatnya mereka berupaya melobi pemerintah agar upaya advokasi kepada Palestina dihilangkan. Tak jarang, karena besarnya sumber daya keuangan dan kekuatan, lobi-lobi tersebut membuahkan hasil yang sejalan dengan strategi besar AS di Timur Tengah.
-
-Artinya, untuk merubah dukungan AS terhadap Israel sangat sulit dilakukan. Karena ini semua bukan hanya kebijakan strategis politik luar negeri.
+Meski ekonomi global telah pulih secara bertahap, namun masih dibayangi perlambatan di tahun 2023. Hal ini menjadi perhatian dan merasa perlu untuk diantisipasi bersama.
 ''',
   ),
 ];
@@ -190,7 +146,7 @@ List<News> hotNewsList = [
     image:
         "https://akcdn.detik.net.id/visual/2021/07/23/pekerja-migran-indonesia-pmi-dari-malaysia-tiba-di-bandara-soekarno-hatta-tangerang-banten-kamis-2272021-3_169.jpeg?w=715&q=90",
     content: '''
- Kasus harian Covid-19 di Indonesia per Jumat (14/04/2023) pukul 12.00 WIB tercatat telah bertambah 1.017 dibandingkan Kamis (13/04/2023).
+Kasus harian Covid-19 di Indonesia per Jumat (14/04/2023) pukul 12.00 WIB tercatat telah bertambah 1.017 dibandingkan Kamis (13/04/2023).
 Berdasarkan data Satgas Penanganan Covid-19, kasus konfirmasi Covid-19 di Indonesia hingga Jumat ini terhitung sejak awal pandemi pada 2020 lalu mencapai 6.755.600.
 
 Adapun kasus sembuh bertambah 463 orang, sehingga total yang telah sembuh dari infeksi Covid-19 mencapai 6.586.231 kasus.
@@ -203,6 +159,13 @@ Jumlah spesimen yang diuji mencapai 16.926 dan suspek 1.428.
 
 Adapun dari target sasaran vaksinasi Covid-19 di Indonesia 234.666.020 dosis, realisasi vaksinasi ke-1 telah mencapai 203.828.285, vaksinasi ke-2 174.864236 dosis, vaksinasi ke-3 68.698.932, dan vaksinasi keempat 3.120.622.
 
+Kemudian mereka berdiskusi seputar Kepemimpinan Indonesia di ASEAN Tahun 2023.
+
+"Saya menyambut baik masukan dan dukungan yang diberikan terhadap ASEAN dan ASEAN+3 di bidang keuangan," kata Sri Mulyani, dikutip Sabtu (15/4/2023).
+
+"Termasuk memperkuat Chiang Mai Initiative Multilateralization (CMIM) dan ASEAN+3 Macroeconomic Research Office (AMRO)," imbuhnya.
+
+Ia juga sangat mengapresiasi dukungan Tiongkok untuk Indonesia dalam plenary FATF Februari lalu dan kesediaannya menjadi contact group untuk membantu proses keanggotaan Indonesia di FATF.
 
 ''',
   ),
