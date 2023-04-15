@@ -2,7 +2,7 @@
 
 ## Anggota Kelompok 7 Kelas B:
 1. Miftah Yuzar A (2006035)
-2. Taufik Rahman
+2. Taufik Rahman (2006093)
 3. Rival Riyanto (2006077)
 4. Sofyan Tizani
 
