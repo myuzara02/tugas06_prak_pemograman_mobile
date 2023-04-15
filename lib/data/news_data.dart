@@ -103,26 +103,15 @@ Adapun dari target sasaran vaksinasi Covid-19 di Indonesia 234.666.020 dosis, re
   ),
   News(
       id: 5,
-      title: "Heboh di Amerika, ChatGPT Sepi Pengguna di Indonesia",
+      title: "HP Mahal Samsung Turun Harga Jelang Lebaran, Ini Daftarnya!",
       image:
-          "https://akcdn.detik.net.id/visual/2023/02/02/1246657758_169.jpeg?w=715&q=90",
+          "https://awsimages.detik.net.id/visual/2023/02/02/samsung-galaxy-s23_169.jpeg?w=715&q=90",
       content: '''
-ChatGPT belum kelihatan mendaftar sebagai penyelenggara sistem elektronik (PSE). Kementerian Kominfo juga belum menentukan apakah platform chatbot asal OpenAI wajib lapor ke pihaknya.
-Dirjen Aptika Kementerian Kominfo, Semuel Abrijani Pangerapan menjelaskan platform wajib daftar jika memiliki layanan berbayar. Pihaknya juga terus terus melakukan analisis, termasuk terkait trafik penggunaan di tanah air.
+Sudah menjadi tradisi bagi pabrikan HP untuk menggelar diskon besar-besaran menjelang Hari Raya Idul Fitri. Pasalnya, daya beli masyarakat sedang tinggi akibat baru menerima Tunjangan Hari Raya (THR).
 
-"Kalau dia berbayar wajib. Kemarin sih kita sudah kirim-kirim surat. Kemaren masih kita analisa, trafiknya berapa sih, biayanya. Kan ada enam kategori soal PSE. Kalau dia masuk, berarti harus daftar," jelas Semuel ditemui di kantor Kementerian Kominfo, Jakarta, Kamis (13/4/2023).
+Tahun ini, Samsung, Oppo, Vivo, Xiaomi, Realme, dkk kembali menggelar diskon untuk beberapa seri produk mereka. Tak cuma HP lawas, tetapi juga yang masih terhitung baru.
 
-ntinya adalah Kominfo ingin memahami dulu soal ChatGPT. Termasuk terkait apa chatbot yang mendadak terkenal akhir tahun lalu.
-
-Pihak OpenAI, dia menyebutkan akan melakukan kunjungan ke beberapa negara mungkin juga termasuk Indonesia. Apabila benar ke tanah air, Semuel mengatakan bisa memanggil perusahaan untuk membicarakan soal ChatGPT.
-
-"By the way dia katanya mau ke Indonesia. Dia mau keliling dunia. Nah mungkin saya juga bisa panggil, bisa ngobrol. Jadi kita harus memahami dulu. Itu sih pertama yang ingin kita lakukan. Kita ingin memahami dulu apa itu," kata Semuel.
-
-Penggunaan ChatGPT di Indonesia juga masih kecil. Jadi menurutnya, platform belum jadi prioritas pihak kementerian.
-
-"Masih kecil sekali. Bahkan ada baselinenya. Makanya kemarin trafiknya kecil sekali di sininya [di Indonesia]. Jadi belum masuk prioritas kami," ungkapnya.
-
-Platform yang beroperasi di Indonesia wajib mendaftar, sesuai dengan aturan Permen Kominfo No.5 Tahun 2020 dan perubahannya melalui Permen Kominfo No. 10 Tahun 2021
+Bahkan, Samsung sudah menurunkan harga untuk seri Galaxy S23 Ultra yang baru dirilis pada Februari 2023. HP ini cocok untuk menunjang produktivitas dan hobi fotografi.
 '''),
   News(
     id: 6,
