@@ -160,35 +160,30 @@ Ia juga sangat mengapresiasi dukungan Tiongkok untuk Indonesia dalam plenary FAT
   ),
   News(
     id: 7,
-    title: "'Unbreakable Bond', Ini Penyebab AS-Israel Selalu Mesra",
+    title: "Penjualan Hermes Birkin Terbang 25% Efek Orang China-Eropa",
     image:
-        "https://akcdn.detik.net.id/visual/2022/07/14/usa-israelbiden-arrival-2_169.jpeg?w=1000&q=90",
+        "https://awsimages.detik.net.id/visual/2019/09/12/6f8451dc-f3d9-419a-be7a-2a841da9933f_169.jpeg?w=715&q=90",
     content: '''
-Amerika Serikat (AS) dan Israel punya hubungan yag kuat beberapa dekade lamannya. Bahkan, pada 2016 lalu Presiden AS ke 44 Barack Obama dan Perdana Menteri Israel Benjamin Netanyahu menyebut hubungan kedua negara "unbreakable bond" alias ikatan yang tak pernah putus.
+Penjualan tas Hermes Birkin melesat 23% pada kuartal pertama 2023, di atas ekspektasi pasar. Di mana kenaikan disumbang dari pembeli di China dan Eropa yang masih tetap berbelanja barang fesyen mewah meski harga lebih tinggi di tengah gejolak pasar global.
+Penjualan selama tiga bulan yang berakhir pada Maret mencapai Euro 3,38 miliar atau setara US 3,74 miliar atau naik 23% dengan nilai tukar yang konstan.
 
-Hubungan keduanya sebenarnya mengalami pasang surut. Bahkan, baru-baru ini Presiden AS AS Joe Biden memiliki pandangan politik yang berbeda dengan Netayahu soal perombakan sistem yudisial di Israel.
+Hal ini seolah berbalik dengan kondisi di AS.
 
-Netahayu merespon pernyataan Biden yang meminta untuk tidak melakukan hal tersebut.
+Kepala Keuangan Hermes Eric Du Halgouet mengatakan trafik toko di Amerika Serikat di mana saingannya adalah LVMH (Louis Vuitton) awal pekan ini menandai permintaan yang lebih rendah untuk fashion, barang kulit, dan perhiasan yang terus meningkat.
 
-"Israel adalah negara berdaulat yang membuat keputusannya atas kehendak rakyatnya dan tidak berdasarkan tekanan dari luar negeri, termasuk dari sahabat," kata Netanyahu akhir Maret lalu.
+"Apa yang kami lihat di Amerika Serikat adalah peningkatan lalu lintas (trafik toko) secara global, tren yang kami lihat di April tetap menguntungkan dengan lalu lintas yang sangat dinamis," katanya, mengutip CNBC Internasional, Sabtu (15/4/2023).
 
-Namun, pasang surut hubungan yang terjadi, tetap tidak membuat hubungan keduanya putus. Setiap tahun Amerika Serikat selalu rutin memberikan bantuan miliaran dolar AS ke Israel.
+Selain itu melihat dari tren makro saat ini, sejauh ini pandangannya belum melihat adanya perlambatan.
 
-Biden yang memiliki pandangan politik sedikit berbeda dengan Netayahu pada akhir 2022 lalu memberikan bantuan senilai US 3,3 miliar untuk keamanan plus US 500 juta untuk perbaikan sistem pertahanan rudal Iron Dome.
+Analis Bernstein Luca Solca mengatakan pertumbuhan di AS sangat kuat untuk grup itu, yang membukukan peningkatan penjualan sebesar 19% di wilayah Amerika dibandingkan pertumbuhan LVMH sebesar 8%.
 
-Dennis Ross, Distinguished Fellow dari Washington Institute for Near East Policy yang juga pernah menjadi asisten khusus Obama mengatakan hubungan hubungan strategis kedua negara menjadi sangat erat sejak era Presiden Ronald Reagan pada 1980an.
+Di China penjualan Hermes juga tidak terpengaruh adanya lockdown. Pada akhir kuartal tahun lalu pendapatannya tumbuh 23%. Wilayah Asia kecuali Jepang menghasilkan hampir setengah dari penjualan tahunan di grup tersebut.
 
-Kedua negara disebut saling membantu untuk mencapai tujuan gepolitik di Timur Tengah dan sekitarnya. Kedua negara juga saling menjaga keamanan di dalam dan luar negeri, berbagi informasi intelijen, melakukan latihan militer serta berkolaborasi meningkatkan teknologi.
+Du Halgouet mengatakan arus wisatawan dari China darat telah kembali ke Hong Kong, dan Makau. Sehingga bisnis pun meningkat.
 
-"Setiap pemerintahan sejak saat itu, bahkan jika presiden tidak memiliki hubungan hangat dengan Israel, seperti George H.W Bush, begitu juga Barrack Obama, tetapi mereka tetap membangun hubungan berdasarkan fondasi tersebut," kata Ross dalam sebuah wawancara yang dikutip dalam riset yang diterbitkan The Conversation, Selasa (11/4/2023).
+Hal ini pun terjadi di Singapura, Australia dan diharapkan pembeli asal China juga perlahan kembali ke Eropa menjelang akhir tahun.
 
-Salah satu kepentingan Amerika Serikat di Timur Tengah tentu saja adalah minyak mentah. Sebagai negara dengan nilai perekonomian terbesar di dunia, Amerika Serikat juga konsumen minyak mentah nomer satu di dunia.
-
-Timur Tengah menjadi wilayah penghasil minyak mentah utama dunia. Berdasarkan data Statista pada 2021 rata-rata produksi minyak mentah di kawasan tersebut mecapai 28,1 juta barel per hari. Jumlah tersebut merepresentasikan 31,3% dari produksi minyak global.
-
-Saat terjadi perang dingin dengan Uni Soviet, Presiden AS Jimmy Carter dalam pidato kenegaraan pada 1980 menyatakan akan mengerahkan pasukan militer jika kepentingan di Timur Tengah diganggu.
-
-"Uni Soviet sekarang berusaha untuk mengkonsolidasikan posisi strategis, itu merupakan ancaman besar bagi pergerakan minyak mentah di Timur Tengah. Mari kita pertegas, upaya kekuatan luar untuk menguasi Teluk Persia akan dianggap sebagai ancaman bagi kepentingan vital Amerika Serikat, dan seragan semacam itu akan dilawan dengan cara apapun, termasuk kekuatan militer," kata Carter
+Menurut Konsultan Bain, lockdown sempat mengurangi permintaan barang mewah di China tahun lalu. Pasar terpantau turun 10% mengakhir rentetan pertumbuhan selama lima tahun.
 ''',
   ),
   News(
