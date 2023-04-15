@@ -94,7 +94,7 @@ class _HomeScreenState extends State<HomeScreen> {
       child: Column(
         children: [
           Container(
-            color: Colors.red,
+            color: Colors.green,
             child: Column(
               children: [
                 SizedBox(
@@ -160,7 +160,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 padding: const EdgeInsets.all(8),
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(8),
-                  color: Colors.red[100],
+                  color: Colors.green[100],
                 ),
                 child: Row(
                   children: [
@@ -197,7 +197,7 @@ class _HomeScreenState extends State<HomeScreen> {
             padding: const EdgeInsets.all(8),
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(8),
-              color: Colors.red,
+              color: Colors.green,
             ),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.center,
